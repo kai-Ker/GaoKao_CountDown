@@ -1,6 +1,8 @@
 import os
 import psutil
 
+__author__ = "kai_Ker (kai_Ker@buaa.edu.cn)"
+
 if __name__ == '__main__':
     try:
         with open('proc', 'r') as f:

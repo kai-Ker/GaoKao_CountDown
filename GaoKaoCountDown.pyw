@@ -10,7 +10,7 @@ import win32gui
 import win32ui
 from dateutil import parser
 
-__author__ = '卓荦成阳@bilibili'
+__author__ = 'kai_Ker (kai_Ker@buaa.edu.cn)'
 
 FPS = 75
 
